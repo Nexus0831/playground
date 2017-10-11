@@ -1,0 +1,21 @@
+input[type="text"] {
+  height: 37px;
+  width: 200px;
+  outline: 0;
+  border:none;
+  background:none;
+  border-radius: 5px;
+  border: 2px solid #aaa;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+input[type="text"]:focus {
+  border: 2px solid #88961c;
+}
+
+.price {
+  position: relative;
+  top: 40px;
+  font-size: 30px;
+}
